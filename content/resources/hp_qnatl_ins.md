@@ -5,6 +5,8 @@ description: These lecture notes outline the proposal and defeat of the Clinton 
 file: /courses/17-315-comparative-health-policy-fall-2004/d269fd5dab7da60add1d9dad4963db85_hp_qnatl_ins.pdf
 file_size: 25226
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

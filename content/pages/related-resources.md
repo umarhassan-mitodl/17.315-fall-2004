@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -12,14 +14,14 @@ Web Resources
 
 You can find a great deal of information related to health policy trends, health status and health statistics on the World Wide Web. Some useful sites include:
 
-{{% resource_link "214e6d4d-9383-4d4a-8f07-5be5e1716068" "Injury Fact Book" %}}
+[Injury Fact Book](https://stacks.cdc.gov/view/cdc/11438/cdc_11438_DS1.pdf)
 
-{{% resource_link "71b4ab8e-274c-4de7-9c8a-4dbd0724b737" "Healthy People 2010" %}}
+[Healthy People 2010](http://www.cdc.gov/nchs/hphome.htm)
 
-{{% resource_link "80bc7dbc-c7e6-44ba-8528-51de5064c68d" "Centers for Disease Control, National Center for Health Statistics, United States, 2003" %}}
+[Centers for Disease Control, National Center for Health Statistics, United States, 2003](http://www.cdc.gov/nchs/hus.htm)
 
-{{% resource_link "75497e1d-5485-4aa0-bb56-017939f5c182" "Comparative Health Statistics - Organisation for Economic Co-operation and Development" %}}
+[Comparative Health Statistics - Organisation for Economic Co-operation and Development](http://www.oecd.org/document/38/0,2340,en_2649_34631_16560422_1_1_1_1,00.html)
 
-{{% resource_link "fe2833f4-4e6d-4e20-9ce5-9055dea8093f" "Health at a Glance - Organisation for Economic Co-operation and Development" %}}
+[Health at a Glance - Organisation for Economic Co-operation and Development](http://www.oecd.org/health/health-systems/health-at-a-glance-19991312.htm)
 
-{{% resource_link "b918d095-109d-49fa-8dd1-d06a5341cf34" "World Health Statistics - WHO Statistical Information System (WHOSIS)" %}}
+[World Health Statistics - WHO Statistical Information System (WHOSIS)](https://openei.org/wiki/WHO_Statistical_Information_System_(WHOSIS))

@@ -4,6 +4,8 @@ description: Reforms that are to be used.
 file: /courses/17-315-comparative-health-policy-fall-2004/34584e4022c54503548c78ca2ebcaf51_hlth_plcy_reform.pdf
 file_size: 12410
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

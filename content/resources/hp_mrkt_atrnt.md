@@ -4,6 +4,8 @@ description: These lecture notes outline the key issues in market-based health c
 file: /courses/17-315-comparative-health-policy-fall-2004/82bc5f95a54f6a41c49bcd2563f4b4db_hp_mrkt_atrnt.pdf
 file_size: 28640
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

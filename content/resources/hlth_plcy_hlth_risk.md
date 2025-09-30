@@ -4,6 +4,8 @@ description: 'Risk: Setting for fears and how the public gets informed about it.
 file: /courses/17-315-comparative-health-policy-fall-2004/18d762b585a8f493e14df6867b587dc5_hlth_plcy_hlth_risk.pdf
 file_size: 34436
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: These lecture notes outline the history and development of the priv
 file: /courses/17-315-comparative-health-policy-fall-2004/69fc655da2f279947a3a7a4b2beaf988_hp_hcare_hsry.pdf
 file_size: 37126
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

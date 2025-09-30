@@ -4,6 +4,8 @@ description: Points to note in reviewing us and comparative health status data.
 file: /courses/17-315-comparative-health-policy-fall-2004/d103e37c66fe9751490182bd179945f9_hlth_plcy_expnd_rsrs.pdf
 file_size: 39183
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
