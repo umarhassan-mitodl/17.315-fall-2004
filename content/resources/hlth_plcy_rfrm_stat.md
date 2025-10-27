@@ -4,8 +4,6 @@ description: Role of States in US Health System.
 file: /courses/17-315-comparative-health-policy-fall-2004/7e69eba2253700b507a480f30d90059a_hlth_plcy_rfrm_stat.pdf
 file_size: 41951
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

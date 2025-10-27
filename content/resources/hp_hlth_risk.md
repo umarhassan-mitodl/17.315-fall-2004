@@ -5,8 +5,6 @@ description: These lecture notes outline the politics of health risks and contra
 file: /courses/17-315-comparative-health-policy-fall-2004/00387772b3bc92966625f84ccaba768a_hp_hlth_risk.pdf
 file_size: 34436
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

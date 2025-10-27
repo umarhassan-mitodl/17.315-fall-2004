@@ -5,8 +5,6 @@ description: These lecture notes provide a comparative assessment of the United 
 file: /courses/17-315-comparative-health-policy-fall-2004/84404b7add1f3deaa3e3af9fc12fc494_hp_com_ases.pdf
 file_size: 19849
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

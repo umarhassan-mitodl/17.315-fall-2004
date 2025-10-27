@@ -5,8 +5,6 @@ description: The content in this file compares the health care policy of US with
 file: /courses/17-315-comparative-health-policy-fall-2004/57af996769a49733947f3623d3b91d53_hlth_plcy_com_ases.pdf
 file_size: 19849
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

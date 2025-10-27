@@ -4,8 +4,6 @@ description: Market is an alternative to health care.
 file: /courses/17-315-comparative-health-policy-fall-2004/11e55e9609ffbe08cae5f41f97e959dd_hlth_plcy_mrkt_atrnt.pdf
 file_size: 28640
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: These lecture notes outline the role of individual states in Americ
 file: /courses/17-315-comparative-health-policy-fall-2004/3d69ba67ab3d2cca478e23f764587808_hp_rfrm_stat.pdf
 file_size: 41951
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

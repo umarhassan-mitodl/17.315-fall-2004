@@ -5,8 +5,6 @@ description: These lecture notes outline the systems, problems, and policies of 
 file: /courses/17-315-comparative-health-policy-fall-2004/03b53c27b7877983279b93405ba890d3_hp_hcare_mhds.pdf
 file_size: 23616
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

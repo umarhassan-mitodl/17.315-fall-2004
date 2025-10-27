@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-315-comparative-health-policy-fall-2004/18e90c16baa4a8fa58478f5ea383575f_hlth_plcy_hcare_mhds.pdf
 file_size: 23616
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

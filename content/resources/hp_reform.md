@@ -4,8 +4,6 @@ description: These lecture notes outline the key issues in American health care 
 file: /courses/17-315-comparative-health-policy-fall-2004/a6ff84f4b016642ff89f7267f59f9ede_hp_reform.pdf
 file_size: 12410
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
